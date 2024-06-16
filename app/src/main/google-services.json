@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228581422082",
+    "project_id": "retailcloud-f8bc6",
+    "storage_bucket": "retailcloud-f8bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228581422082:android:fafa9a3fca8f4e392ca31b",
+        "android_client_info": {
+          "package_name": "com.example.retailcloudassessmentproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY087qBrO7VjEv9ExRaIYuj3atckyuheY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

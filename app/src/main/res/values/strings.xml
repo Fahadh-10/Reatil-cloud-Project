@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetailCloud Assessment Project</string>
+    <string name="total_inclu_tax">Total Inclu. Tax: %1$s</string>
+    <string name="tax">Tax: %1$s %</string>
+    <string name="total_amount">Total Amount: %1$s</string>
+    <string name="qty_item">Qty: %1$s Item</string>
+    <string name="product_list">Product List</string>
+    <string name="products_for_you">Products for you</string>
+</resources>
